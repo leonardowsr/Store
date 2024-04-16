@@ -1,0 +1,152 @@
+[
+    {
+        "name": "feijão",
+        "price": 0.49,
+        "image": "feijão.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "abacate",
+        "price": 0.49,
+        "image": "abacate.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "alcatra",
+        "price": 1.99,
+        "image": "alcatra.png",
+        "type": "carne"
+    },
+    {
+        "name": "bacon",
+        "price": 2.85,
+        "image": "bacon.png",
+        "type": "carne"
+    },
+    {
+        "name": "beterraba",
+        "price": 0.99,
+        "image": "beterraba.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "batata",
+        "price": 0.58,
+        "image": "batata.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "arroz primavera",
+        "price": 0.52,
+        "image": "arroz primavera.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "batata doce",
+        "price": 0.58,
+        "image": "batata doce.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "carne de carneiro",
+        "price": 2.39,
+        "image": "carne de carneiro.png",
+        "type": "carne"
+    },
+    {
+        "name": "cebola",
+        "price": 1.49,
+        "image": "cebola.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "cenoura",
+        "price": 0.45,
+        "image": "cenoura.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "cerveja stella",
+        "price": 1.89,
+        "image": "cerveja stella.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "coca-cola 2 litros",
+        "price": 1.49,
+        "image": "coca-cola 2 litros.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "abacaxi",
+        "price": 1.49,
+        "image": "abacaxi.png",
+        "type": "frutas"
+    },
+    {
+        "name": "alho",
+        "price": 1.49,
+        "image": "alho.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "brahma lata",
+        "price": 1.49,
+        "image": "brahma lata.jpg",
+        "type": "bebidas"
+    },
+    {
+        "name": "caçulinha",
+        "price": 1.49,
+        "image": "caçulinha.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "campari",
+        "price": 1.49,
+        "image": "campari.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "chuchu",
+        "price": 1.49,
+        "image": "chuchu.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "devassa lata",
+        "price": 1.49,
+        "image": "devassa lata.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "heineken",
+        "price": 1.49,
+        "image": "heineken.png",
+        "type": "bebidas"
+    },
+    {
+        "name": "linguiça",
+        "price": 1.49,
+        "image": "linguiça.png",
+        "type": "carnes"
+    },
+    {
+        "name": "seara frango",
+        "price": 1.49,
+        "image": "seara frango.jpg",
+        "type": "carnes"
+    },
+    {
+        "name": "tomate",
+        "price": 1.49,
+        "image": "tomate.png",
+        "type": "vegetais"
+    },
+    {
+        "name": "whisky old bridge",
+        "price": 1.49,
+        "image": "whisky old bridge.png",
+        "type": "bebidas"
+    }
+]

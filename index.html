@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SUPERMERCADO STORE</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="page">
+      <header>
+        <img src="img-resized/logo.png" alt="logo cart" />
+        <h1>SUPER <strong>STORE</strong></h1>
+      </header>
+      <main>
+        <aside>
+          <form action="#">
+            <label for="categoryText" class="categoryText">
+              Escolha a categoria
+            </label>
+            <select id="category">
+              <option aria-label="todos" value="todos">todos</option>
+              <option aria-label="bebidas" value="bebidas">bebidas</option>
+              <option aria-label="carne" value="carne">carne</option>
+              <option aria-label="vegetais" value="vegetais">vegetais</option>
+              <option aria-label="frutas" value="frutas">frutas</option>
+            </select>
+            <label for="searchInput"> Pesquisar produto: </label>
+            <input
+              type="text"
+              name=""
+              id="searchInput"
+              placeholder="feijão, arroz..."
+            />
+            <button id="buttonFilter">Filtrar resultados</button>
+          </form>
+          <div class="cartProducts">
+            <h2>Carrinho de compras:</h2>
+            <p class="containerTotalPrice">
+              total: R$ <span class="totalPrice">0</span>
+            </p>
+            <ul class="listProductsCart"></ul>
+          </div>
+        </aside>
+        <section></section>
+      </main>
+      <footer>
+        <p>
+          © 2024 SUPER STORE. Todos os direitos reservados.
+          <a href="https://github.com/Marshalldt1/Store" target="_blank"
+            ><img src="img-resized/github.png"  alt="github"
+          /></a>
+        </p>
+      </footer>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
